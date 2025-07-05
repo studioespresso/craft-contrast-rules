@@ -2,6 +2,7 @@
   "name": "studioespresso/contrastrules",
   "description": "WCAG color validation",
   "type": "craft-plugin",
+  "version": "1.0.0",
   "require": {
     "php": ">=8.2",
     "craftcms/cms": "^5.5.0"
